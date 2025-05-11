@@ -20,7 +20,7 @@ $GLOBALS['TL_DCA']['tl_member']['salutation'] => [
 See the [DCA reference](../../../reference/dca/fields#enumerations) for more information.
 
 
-## Resolve the Enumation
+## Resolve the Enumeration
 
 Only the `value` of an enumeration is stored in the database. 
 You can use `Model::getEnum()` to resolve the enumeration.
